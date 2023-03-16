@@ -8,6 +8,6 @@
 
 Storming big brains
 
-[🔮 Homepage](https://neobrains.me)
+[🔮 Homepage](https://neobrains.dev)
 
 </div>
